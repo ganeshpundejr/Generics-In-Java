@@ -20,7 +20,7 @@ It will create GIT repository
 
 1. Check for Git Version
 
-git --version 
+$ git --version 
 
 2. Clone GIT repository
 
@@ -38,13 +38,14 @@ $ git init
 5. Add file into GIT Index
 
 $ git add <File_Name>  {{For Single File}}
+
 $ git add .            {{For all the files in current Directory}}
 
 ----------------------------------------------------------------------------------------------------
 [5.1] Amending a commit without changing its message
 
 $ git commit --amend --no-edit
-****************************************************
+
 ----------------------------------------------------------------------------------------------------
 5. Check GIT status
 
