@@ -36,6 +36,11 @@ git init
 git add <File_Name>  {{For Single File}}
 git add .            {{For all the files in current Directory}}
 
+----------------------------------------------------------------------------------------------------
+[5.1] Amending a commit without changing its message
+****************************************************
+$ git commit --amend --no-edit
+----------------------------------------------------------------------------------------------------
 5. Check GIT status
 git status
 
