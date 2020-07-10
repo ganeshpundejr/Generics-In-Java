@@ -1,6 +1,6 @@
 **JAVA 13 FEATURES** :
 
-What is new in Java 13
+What is new in 
 <a href="https://openjdk.java.net/projects/jdk/13/">Java 13</a> reached General Availability on 17 September 2019, <a href="https://jdk.java.net/java-se-ri/13">download Java 13 here</a> or this <a href="https://jdk.java.net/archive/">openJDK archived</a>.
 
 <li><a href="https://openjdk.java.net/jeps/350">JEP 350: Dynamic CDS Archives</a></li>
