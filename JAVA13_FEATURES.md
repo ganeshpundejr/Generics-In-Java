@@ -121,6 +121,17 @@ Or like this, mixed the use of arrow syntax and yield.
         };
     }
  
+ In Java 13, the JEP 354: Switch Expressions extends the previous Java 12 Switch Expressions by adding a new yield keyword to return a value from the switch expression.
+
+ P.S Switch expressions are a preview feature and are disabled by default.
+ 
+** 3.2 We need to enable the preview feature manually:**
+
+```java
+javac --enable-preview --release 13 Example.java
+java --enable-preview Example
+```
+
 <li><a href="https://openjdk.java.net/jeps/355">JEP 355: Text Blocks (Preview)</a> (developer can use this feature)</li>
 
 ....
