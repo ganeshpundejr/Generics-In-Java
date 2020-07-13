@@ -125,7 +125,9 @@ Or like this, mixed the use of arrow syntax and yield.
 
  P.S Switch expressions are a preview feature and are disabled by default.
  
-** 3.2 We need to enable the preview feature manually:**
+
+
+    3.2 We need to enable the preview feature manually:
 
 ```java
 javac --enable-preview --release 13 Example.java
