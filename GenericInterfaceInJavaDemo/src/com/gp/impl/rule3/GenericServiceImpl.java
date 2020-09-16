@@ -1,4 +1,4 @@
-package com.gp.impl.rule1.rule3;
+package com.gp.impl.rule3;
 
 import com.gp.generic.GenericServiceInterface;
 

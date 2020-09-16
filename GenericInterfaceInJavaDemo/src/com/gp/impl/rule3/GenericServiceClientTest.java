@@ -1,4 +1,4 @@
-package com.gp.impl.rule1.rule3;
+package com.gp.impl.rule3;
 public class GenericServiceClientTest {
 
 	public static void main(String[] args) {
